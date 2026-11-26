@@ -7,15 +7,6 @@
 
 ---
 
-## 👥 Anggota Kelompok
-
-| 1 | **Irji' Mahyadinu** | `25.11.6429` |
-| 2 | **Muhammad Reyhan Puham** | `25.11.6434` |
-| 3 | **Desca Pratiwi** | `25.11.6430` |
-| 3 | **Nurul Azmi Kinanggi** | `25.11.6425` |
-
----
-
 ## 📂 Struktur Direktori Proyek
 
 ```text
