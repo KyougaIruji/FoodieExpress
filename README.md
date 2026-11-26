@@ -3,7 +3,7 @@
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-WinForms-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![IDE](https://img.shields.io/badge/IDE-JetBrains%20Rider%20%7C%20Visual%20Studio-000000?style=flat-square&logo=rider&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
 ---
 
