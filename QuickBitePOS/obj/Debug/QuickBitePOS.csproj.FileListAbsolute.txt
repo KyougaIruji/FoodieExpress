@@ -1,0 +1,50 @@
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.AssemblyReference.cache
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.frmBeranda.resources
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Keranjang.resources
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.GenerateResource.cache
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.exe.config
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.exe
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.pdb
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\bin\Debug\System.Data.SQLite.dll
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\bin\Debug\System.Data.SQLite.xml
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Properties.Resources.resources
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.CoreCompileInputs.cache
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBit.3F14B02D.Up2Date
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.exe
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.pdb
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.exe.config
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.DaftarMenu.resources
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Kategori.resources
+D:\PEMROG LANJUT\QuickBitePOS\QuickBitePOS\bin\Debug\Database\quickbite_pos.db
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.exe.config
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.exe
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.pdb
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\bin\Debug\System.Data.SQLite.dll
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\bin\Debug\System.Data.SQLite.xml
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.AssemblyReference.cache
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.DaftarMenu.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.frmBeranda.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Kategori.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Keranjang.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Properties.Resources.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.GenerateResource.cache
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.CoreCompileInputs.cache
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBit.3F14B02D.Up2Date
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.exe
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS (2)\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.pdb
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.exe.config
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.exe
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\bin\Debug\QuickBitePOS.pdb
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\bin\Debug\System.Data.SQLite.dll
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\bin\Debug\System.Data.SQLite.xml
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.AssemblyReference.cache
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.DaftarMenu.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.frmBeranda.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Kategori.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Keranjang.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.Properties.Resources.resources
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.GenerateResource.cache
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.csproj.CoreCompileInputs.cache
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBit.3F14B02D.Up2Date
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.exe
+D:\DATA_IRJI\Project\C#\nextC#\UTS-UAS\QuickBitePOS\QuickBitePOS\obj\Debug\QuickBitePOS.pdb
